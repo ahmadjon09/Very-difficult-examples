@@ -16,7 +16,6 @@ body {
     height: 100vh;
     margin: auto;
     padding: 10px;
-    background-color: rgb(245, 214, 174);
 }
 
 .h11 {
@@ -24,4 +23,8 @@ body {
     font-weight: 400;
     font-style: normal;
 
+}
+
+.aa {
+    transition: .3s ease-in-out;
 }
